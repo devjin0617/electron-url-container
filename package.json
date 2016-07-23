@@ -1,0 +1,33 @@
+{
+  "name": "electron-url-container",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjin0617/electron-url-container.git"
+  },
+  "keywords": [
+    "electron",
+    "webkit",
+    "pc",
+    "program",
+    "application",
+    "generator"
+  ],
+  "author": "devjin0617",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devjin0617/electron-url-container/issues"
+  },
+  "homepage": "https://github.com/devjin0617/electron-url-container#readme",
+  "dependencies": {
+    "electron-prebuilt": "^1.2.8"
+  },
+  "devDependencies": {
+    "spectron": "^3.2.6"
+  }
+}
